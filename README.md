@@ -1,3 +1,4 @@
+<div align="center">
 # 🎯 Insights in Focus. Strategy in Motion.
 
 # Lonn Mejiano
