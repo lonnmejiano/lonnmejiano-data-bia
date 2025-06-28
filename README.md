@@ -51,9 +51,9 @@ Or request a copy via email: **lonnmejiano@gmail.com**
 
 ## 🧠 Fun Facts
 
-- 🎓 Studied at **Academy of Art University** (Photography & Design)  
-- ✈️ Led teams at Delta & American Airlines as Ramp Supervisor and Crew Chief  
-- 📸 Founder of *MejianoFoto* – telling stories through lenses and lighting
+🎓 Studied at **Academy of Art University** (Photography & Design)  
+ ✈️ Led teams at Delta & American Airlines as Ramp Supervisor and Crew Chief  
+ 📸 Founder of *MejianoFoto* – telling stories through lenses and lighting
 
 ---
 
