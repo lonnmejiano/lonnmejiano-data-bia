@@ -1,61 +1,58 @@
 # 👋 Hi, I’m Lonn Mejiano
 
-## 🎯 Business Intelligence Analyst | Aviation Ops Leader | Visual Storyteller
-
-Welcome to my GitHub! I’m a data-driven problem solver with over 10 years of cross-functional experience in **aviation**, **business intelligence**, and **customer-centric analytics**. I blend analytical precision with creative design — translating complex datasets into insights that drive **impactful business decisions**.
-
----
-
-## 🎓 Education
-
-**TripleTen Data Analytics Bootcamp**  
-_Completed: 2025_  
-• Hands-on training in SQL, Tableau, Excel, Power BI, cohort analysis, ROI modeling, retention funnels, and KPI tracking  
-• Projects included: customer churn analysis, return rate dashboards, and investment modeling
-
-**Academy of Art University** – San Francisco, CA  
-_Studied: Photography & Visual Design_  
-• Specialized in studio lighting, digital editing (Lightroom, Photoshop), and visual composition  
-• Built foundation in visual storytelling that now supports dashboard and data design aesthetics
-
-**U.S. Army | Military Engineering Training**  
-• Gained leadership, discipline, and crisis-management skills  
-• Developed the ability to analyze logistics and optimize resource deployment
-
+### 🎯 Business Intelligence Analyst | Aviation Ops Leader | Visual Storyteller  
+📍 Kennewick, WA · ✉️ lonnmejiano@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/lonnmejiano) · 💼 [GitHub Portfolio](https://github.com/lonnmejiano/lonn-data-portfolio)
 
 ---
 
-## 🛠️ Skills & Tools
+## 👨‍💻 About Me
 
-**Languages & Tools:**  
-`SQL` • `Excel (PivotTables, VLOOKUP)` • `Tableau` • `Power BI` • `Python (Pandas)` • `Google Sheets` • `Adobe Lightroom`
+I’m a **data-driven strategist** who translates complex data into actionable insights and clean visual stories. With 10+ years of hands-on experience across **aviation operations, data analytics, and creative media**, I blend leadership, technical expertise, and design thinking.
 
-**Core Competencies:**  
-📊 Data Visualization • 📈 KPI Dashboards • 🔍 Cohort Analysis • 💡 Business Strategy • 🧼 Data Cleaning • 💬 Executive Reporting
-
----
-
-## 🧠 Fun Facts & Hobbies
-
-📸 **Portrait Photographer**  
-Founder of *MejianoFoto* — capturing authentic stories through lenses and lighting. Skilled in studio lighting, Adobe Lightroom, and creative direction.
-
-✈️ **Aviation Enthusiast**  
-From Ramp Supervisor at Delta to Crew Chief at American Airlines — I bring hands-on knowledge of fast-paced operational ecosystems.
-
-🎨 **Creative Technologist**  
-Passionate about using AI tools for image synthesis, visual branding, and storytelling through data and design.
+### 🔍 What I Bring
+- 💡 Business intelligence solutions using SQL, Excel, Tableau, and Power BI
+- 📊 KPI dashboards, cohort/retention modeling, and operational analysis
+- 📸 Visual storytelling through dashboard design and portrait photography
 
 ---
 
-## 📬 Let’s Connect
+## 📄 Resume
 
-- 🌍 **Location:** Kennewick, WA  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lonnmejiano)  
-- 📧 lonnmejiano@gmail.com  
-- 💼 [GitHub Projects](https://github.com/lonnmejiano)
+📎 [Download My Resume (PDF)](./resume_lonn_mejiano.pdf)  
+Or request a copy via email: **lonnmejiano@gmail.com**
 
 ---
 
-> 💡 *"Good data tells a story. Great data moves strategy."*  
+## 🛠️ Skills & Tech Stack
+
+`SQL` • `Excel (PivotTables, VLOOKUP, Forecasting)` • `Tableau` • `Power BI`  
+`Python (Pandas)` • `Data Cleaning` • `Cohort Analysis` • `Executive Reporting`  
+`Adobe Lightroom` • `Photography & Studio Lighting`
+
+---
+
+## 🔗 Pinned Projects
+
+### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)
+> SQL + Excel to group users into lifecycle cohorts. Boosted retention by 8%.
+
+### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/superstore-dashboard)
+> Tableau dashboard visualizing return rate trends vs. sales performance.
+
+### 🏡 [Airbnb ROI Investment Model](https://github.com/lonnmejiano/airbnb-investment-model)
+> Modeled ROI across NYC neighborhoods. Ranked investment zones by projected profitability.
+
+---
+
+## 🧠 Fun Facts
+
+- 🎓 Studied at **Academy of Art University** (Photography & Design)  
+- ✈️ Led teams at Delta & American Airlines as Ramp Supervisor and Crew Chief  
+- 📸 Founder of *MejianoFoto* – telling stories through lenses and lighting
+
+---
+
+> *"Good data tells a story. Great data drives strategy."*  
 Let’s build something impactful together.
+
+
