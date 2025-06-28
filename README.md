@@ -18,7 +18,7 @@ I’m a **data-driven strategist** who translates complex data into actionable i
 
 ## 📄 Resume
 
-📎 [Download My Resume (PDF)](https://github.com/lonnmejiano/lonn-data-bia/raw/main/resume_lonn_mejiano.pdf)  
+📎 [Download My Resume (PDF)](https://github.com/lonnmejiano//resume_sample.pdf)  
 Or request a copy via email: **lonnmejiano@gmail.com**
 
 ---
