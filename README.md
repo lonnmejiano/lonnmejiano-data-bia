@@ -26,7 +26,7 @@ _Studied: Photography & Visual Design_
 
 ## 🚀 Technical Projects
 
-### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)
+### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano-data-bia/cohort-analysis)
 Used SQL and Excel to identify churn patterns across customer lifecycle. Proposed a re-engagement strategy that boosted retention by 8%.
 
 ### 🏡 [Airbnb Investment Modeling](https://github.com/lonnmejiano/airbnb-investment-model)
