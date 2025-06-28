@@ -1,5 +1,4 @@
-# Hello My Name is Lonn Mejiano ✈️
-
+# 👋 Hi, I’m Lonn Mejiano
 
 ## 🎯 Business Intelligence Analyst | Aviation Ops Leader | Visual Storyteller
 
@@ -9,11 +8,12 @@ Welcome to my GitHub! I’m a data-driven problem solver with over 10 years of c
 
 ## 🎓 Education
 
-**TripleTen Data Analytics Bootcamp**   
+**TripleTen Data Analytics Bootcamp**  
+_Completed: 2025_  
 • Hands-on training in SQL, Tableau, Excel, Power BI, cohort analysis, ROI modeling, retention funnels, and KPI tracking  
 • Projects included: customer churn analysis, return rate dashboards, and investment modeling
 
-**Academy of Art University** – San Francisco, CA
+**Academy of Art University** – San Francisco, CA  
 _Studied: Photography & Visual Design_  
 • Specialized in studio lighting, digital editing (Lightroom, Photoshop), and visual composition  
 • Built foundation in visual storytelling that now supports dashboard and data design aesthetics
@@ -26,7 +26,7 @@ _Studied: Photography & Visual Design_
 
 ## 🚀 Technical Projects
 
-### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano-data-bia/cohort-analysis)
+### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)
 Used SQL and Excel to identify churn patterns across customer lifecycle. Proposed a re-engagement strategy that boosted retention by 8%.
 
 ### 🏡 [Airbnb Investment Modeling](https://github.com/lonnmejiano/airbnb-investment-model)
