@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lonn Mejiano
 
 ### 🎯 Business Intelligence Analyst | Aviation Ops Leader | Visual Storyteller  
-📍 Kennewick, WA · ✉️ lonnmejiano@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/lonnmejiano) · 💼 [GitHub Portfolio](https://github.com/lonnmejiano/lonn-data-portfolio)
+📍 Kennewick, WA · ✉️ lonnmejiano@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/lonnmejiano) · 💼 [GitHub Portfolio](https://github.com/lonnmejiano/lonn-data-bia)
 
 ---
 
