@@ -29,7 +29,7 @@ _Studied: Photography & Visual Design_
 ### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)
 Used SQL and Excel to identify churn patterns across customer lifecycle. Proposed a re-engagement strategy that boosted retention by 8%.
 
-### 🏡 [Airbnb Investment Modeling](https://github.com/lonnmejiano/airbnb-investment-model)
+### 🏡 [Airbnb-Manhattan](https://github.com/lonnmejiano/airbnb-manhattanl)
 Modeled ROI in Excel using neighborhood-level Airbnb data. Recommended top 3 boroughs for investment based on return performance.
 
 ### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/superstore-dashboard)
