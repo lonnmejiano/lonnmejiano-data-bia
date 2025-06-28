@@ -36,7 +36,7 @@ Or request a copy via email: **lonnmejiano@gmail.com**
 ### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)
 > SQL + Excel to group users into lifecycle cohorts. Boosted retention by 8%.
 
-### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/lonnmejiano-data-bia/superstore-dashboard)
+### 📦 [SuperStore Returns Dashboard](https://https://github.com/lonnmejiano/superstore-profit-loss-analysis)
 > Tableau dashboard visualizing return rate trends vs. sales performance.
 
 ### 🏡 [Airbnb ROI Investment Model](https://github.com/lonnmejiano/airbnb-investment-model)
