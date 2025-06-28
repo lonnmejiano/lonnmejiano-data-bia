@@ -10,15 +10,15 @@
 I’m a **data-driven strategist** who translates complex data into actionable insights and clean visual stories. With 10+ years of hands-on experience across **aviation operations, data analytics, and creative media**, I blend leadership, technical expertise, and design thinking.
 
 ### 🔍 What I Bring
-- 💡 Business intelligence solutions using SQL, Excel, Tableau, and Power BI
-- 📊 KPI dashboards, cohort/retention modeling, and operational analysis
+- 💡 Business intelligence solutions using SQL, Excel, Tableau, and Power BI  
+- 📊 KPI dashboards, cohort/retention modeling, and operational analysis  
 - 📸 Visual storytelling through dashboard design and portrait photography
 
 ---
 
 ## 📄 Resume
 
-📎
+📎 [Download My Resume (PDF)](https://github.com/lonnmejiano/lonn-data-bia/raw/main/resume_lonn_mejiano.pdf)  
 Or request a copy via email: **lonnmejiano@gmail.com**
 
 ---
@@ -33,13 +33,13 @@ Or request a copy via email: **lonnmejiano@gmail.com**
 
 ## 🔗 Pinned Projects
 
-### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)
+### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/lonn-data-bia/tree/main/cohort-analysis)  
 > SQL + Excel to group users into lifecycle cohorts. Boosted retention by 8%.
 
-### 📦 [SuperStore Returns Dashboard](https://https://github.com/lonnmejiano/superstore-profit-loss-analysis)
+### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/lonn-data-bia/tree/main/superstore-dashboard)  
 > Tableau dashboard visualizing return rate trends vs. sales performance.
 
-### 🏡 [Airbnb ROI Investment Model](https://github.com/lonnmejiano/airbnb-investment-model)
+### 🏡 [Airbnb ROI Investment Model](https://github.com/lonnmejiano/lonn-data-bia/tree/main/airbnb-investment-model)  
 > Modeled ROI across NYC neighborhoods. Ranked investment zones by projected profitability.
 
 ---
@@ -54,5 +54,3 @@ Or request a copy via email: **lonnmejiano@gmail.com**
 
 > *"Good data tells a story. Great data drives strategy."*  
 Let’s build something impactful together.
-
-
