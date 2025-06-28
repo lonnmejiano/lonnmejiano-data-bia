@@ -33,7 +33,7 @@ Or request a copy via email: **lonnmejiano@gmail.com**
 
 ## 🔗 Pinned Projects
 
-### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano//tree/main/cohort-analysis)  
+### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)  
 > SQL + Excel to group users into lifecycle cohorts. Boosted retention by 8%.
 
 ### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano//tree/main/superstore-dashboard)  
