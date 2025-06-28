@@ -22,21 +22,6 @@ _Studied: Photography & Visual Design_
 • Gained leadership, discipline, and crisis-management skills  
 • Developed the ability to analyze logistics and optimize resource deployment
 
----
-
-## 🚀 Technical Projects
-
-### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)
-Used SQL and Excel to identify churn patterns across customer lifecycle. Proposed a re-engagement strategy that boosted retention by 8%.
-
-### 🏡 [Airbnb-Manhattan](https://github.com/lonnmejiano/airbnb-manhattanl)
-Modeled ROI in Excel using neighborhood-level Airbnb data. Recommended top 3 boroughs for investment based on return performance.
-
-### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/superstore-dashboard)
-Built dual-axis Tableau dashboards comparing sales vs. return rates. Identified seasonal return trends and low-performing product segments.
-
-🗂️ **Explore More:**  
-🔗 [Full Project Portfolio](https://github.com/lonnmejiano/lonn-data-portfolio)
 
 ---
 
