@@ -33,10 +33,10 @@ Or request a copy via email: **lonnmejiano@gmail.com**
 
 ## 🔗 Pinned Projects
 
-### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/cohort-analysis)  
+### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano//tree/main/cohort-analysis)  
 > SQL + Excel to group users into lifecycle cohorts. Boosted retention by 8%.
 
-### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/superstore-dashboard)  
+### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano//tree/main/superstore-dashboard)  
 > Tableau dashboard visualizing return rate trends vs. sales performance.
 
 ### 🏡 [Airbnb ROI Investment Model](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/airbnb-investment-model)  
