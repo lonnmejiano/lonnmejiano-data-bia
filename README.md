@@ -1,14 +1,14 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/lonnmejiano/lonnmejiano-data-bia/main/cover/space-man-cover.png" alt="Lonn Mejiano Banner" width="300"/>
 </p>
 
 
 
 
-<div align="center">
+<div align="left">
 # 🎯 Insights in Focus. Strategy in Motion.
 
-# Lonn Mejiano
+
 </div>
 
 
