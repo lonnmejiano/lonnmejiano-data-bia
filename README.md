@@ -46,16 +46,18 @@ I’m a **data-driven strategist** who translates complex data into actionable i
 ## 🔗 Pinned Projects
 
 ### 🧩 [Customer Retention Cohort Analysis](https://github.com/lonnmejiano/cohort-analysis)  April 2025
- SQL + Excel to group users into lifecycle cohorts. Boosted retention by 8%.
-
-### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/superstore-returns-dashboard)  June 2025
- Tableau dashboard visualizing return rate trends vs. sales performance.
+ **Tools**: SQL, Google Sheets
+ 
+ Cohort-based churn analysis revealing lifecycle behavior and retention gaps, with proposed re-engagement strategies that improved retention by 8%.
 
 ### 🏡 [Airbnb ROI Investment Model](https://github.com/lonnmejiano/airbnb-manhattan)  May 2025
  Modeled ROI across NYC neighborhoods. Ranked investment zones by projected profitability.
 
- ### 🏡 [SuperStore Profit Loss Analysis](https://github.com/lonnmejiano/superstore-profit-loss-analysis) June 2025
+### 🏡 [SuperStore Profit Loss Analysis](https://github.com/lonnmejiano/superstore-profit-loss-analysis) June 2025
    This Tableau Dashboard analyzes customer returns from the SuperStore Dataset to identify patterns, quatify losses, and uncover inprovement areas in the product, region, and time dimensions.
+
+### 📦 [SuperStore Returns Dashboard](https://github.com/lonnmejiano/superstore-returns-dashboard)  June 2025
+ Tableau dashboard visualizing return rate trends vs. sales performance.
 
 ---
 
