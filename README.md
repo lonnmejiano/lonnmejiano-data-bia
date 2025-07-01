@@ -6,7 +6,7 @@
 
 
 <div align="left">
-# 🎯 Insights in Focus. Strategy in Motion.
+  🎯 **Insights in Focus. Strategy in Motion**
 
 
 </div>
