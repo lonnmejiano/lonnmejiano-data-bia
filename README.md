@@ -54,6 +54,9 @@ I’m a **data-driven strategist** who translates complex data into actionable i
 ### 🏡 [Airbnb ROI Investment Model](https://github.com/lonnmejiano/airbnb-manhattan)  
  Modeled ROI across NYC neighborhoods. Ranked investment zones by projected profitability.
 
+ ### 🏡 [SuperStore Profit Loss Analysis](https://github.com/lonnmejiano/superstore-profit-loss-analysis)
+   This Tableau Dashboard analyzes customer returns from the SuperStore Dataset to identify patterns, quatify losses, and uncover inprovement areas in the product, region, and time dimensions.
+
 ---
 
 ## 🧠 Fun Facts
